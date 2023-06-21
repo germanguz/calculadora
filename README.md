@@ -1,2 +1,6 @@
-# calculadora
-para practicar js
+# Calculadora
+* HTML
+* CSS
+* JavaScript
+
+A modo de práctica siguiendo un video de youtube
